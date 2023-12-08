@@ -1,0 +1,73 @@
+D‚terminez si le serveur distant est accessible. 
+
+Envoi d'une requˆte 'ping' sur cisco.com [72.163.4.185] avec 32 octets de donn‚esÿ:
+R‚ponse de 72.163.4.185ÿ: octets=32 temps=132 ms TTL=239
+R‚ponse de 72.163.4.185ÿ: octets=32 temps=133 ms TTL=239
+R‚ponse de 72.163.4.185ÿ: octets=32 temps=132 ms TTL=239
+R‚ponse de 72.163.4.185ÿ: octets=32 temps=132 ms TTL=239
+
+Statistiques Ping pour 72.163.4.185:
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 132ms, Maximum = 133ms, Moyenne = 132ms
+La requˆte Ping n'a pas pu trouver l'h“te cisco.com. V‚rifiez le nom et essayez … nouveau.
+Organismes principaux d'Internet 
+
+Envoi d'une requˆte 'ping' sur www.afrinic.net [196.216.2.6] avec 32 octets de donn‚esÿ:
+R‚ponse de 196.216.2.6ÿ: octets=32 temps=187 ms TTL=50
+R‚ponse de 196.216.2.6ÿ: octets=32 temps=187 ms TTL=50
+R‚ponse de 196.216.2.6ÿ: octets=32 temps=186 ms TTL=50
+R‚ponse de 196.216.2.6ÿ: octets=32 temps=187 ms TTL=50
+
+Statistiques Ping pour 196.216.2.6:
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 186ms, Maximum = 187ms, Moyenne = 186ms
+
+Envoi d'une requˆte 'ping' sur www.apnic.net.cdn.cloudflare.net [104.18.235.68] avec 32 octets de donn‚esÿ:
+R‚ponse de 104.18.235.68ÿ: octets=32 temps=12 ms TTL=58
+R‚ponse de 104.18.235.68ÿ: octets=32 temps=12 ms TTL=58
+R‚ponse de 104.18.235.68ÿ: octets=32 temps=12 ms TTL=58
+R‚ponse de 104.18.235.68ÿ: octets=32 temps=12 ms TTL=58
+
+Statistiques Ping pour 104.18.235.68:
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 12ms, Maximum = 12ms, Moyenne = 12ms
+
+Envoi d'une requˆte 'ping' sur www.ripe.net.cdn.cloudflare.net [104.18.20.44] avec 32 octets de donn‚esÿ:
+R‚ponse de 104.18.20.44ÿ: octets=32 temps=12 ms TTL=58
+R‚ponse de 104.18.20.44ÿ: octets=32 temps=11 ms TTL=58
+R‚ponse de 104.18.20.44ÿ: octets=32 temps=12 ms TTL=58
+R‚ponse de 104.18.20.44ÿ: octets=32 temps=12 ms TTL=58
+
+Statistiques Ping pour 104.18.20.44:
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 11ms, Maximum = 12ms, Moyenne = 11ms
+
+Envoi d'une requˆte 'ping' sur www.lacnic.net [200.3.14.145] avec 32 octets de donn‚esÿ:
+R‚ponse de 200.3.14.145ÿ: octets=32 temps=197 ms TTL=49
+R‚ponse de 200.3.14.145ÿ: octets=32 temps=194 ms TTL=49
+R‚ponse de 200.3.14.145ÿ: octets=32 temps=195 ms TTL=49
+R‚ponse de 200.3.14.145ÿ: octets=32 temps=195 ms TTL=49
+
+Statistiques Ping pour 200.3.14.145:
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 194ms, Maximum = 197ms, Moyenne = 195ms
+
+Envoi d'une requˆte 'ping' sur www.arin.net [192.136.136.47] avec 32 octets de donn‚esÿ:
+D‚lai d'attente de la demande d‚pass‚.
+D‚lai d'attente de la demande d‚pass‚.
+D‚lai d'attente de la demande d‚pass‚.
+D‚lai d'attente de la demande d‚pass‚.
+
+Statistiques Ping pour 192.136.136.47:
+    Paquetsÿ: envoy‚s = 4, re‡us = 0, perdus = 4 (perte 100%),
+La requˆte Ping n'a pas pu trouver l'h“te www.afrinic.net. V‚rifiez le nom et essayez … nouveau.
+La requˆte Ping n'a pas pu trouver l'h“te www.apnic.net. V‚rifiez le nom et essayez … nouveau.
+La requˆte Ping n'a pas pu trouver l'h“te www.ripe.net. V‚rifiez le nom et essayez … nouveau.
+La requˆte Ping n'a pas pu trouver l'h“te www.lacnic.net. V‚rifiez le nom et essayez … nouveau.
+La requˆte Ping n'a pas pu trouver l'h“te www.arin.net. V‚rifiez le nom et essayez … nouveau.
+Suivre une route vers un serveur distant … l'aide de la commande Tracert 

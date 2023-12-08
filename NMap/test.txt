@@ -1,0 +1,2 @@
+
+C:\Users\eloha\Desktop\TP4 DROGUE\NMap>nmap -iL list.txt  1>test.txt 

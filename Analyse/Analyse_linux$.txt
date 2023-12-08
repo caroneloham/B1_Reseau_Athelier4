@@ -1,0 +1,1098 @@
+D‚terminez si le serveur distant est accessible. 
+
+Envoi d'une requˆte 'ping' sur cisco.com [72.163.4.185] avec 32 octets de donn‚esÿ:
+R‚ponse de 72.163.4.185ÿ: octets=32 temps=124 ms TTL=238
+R‚ponse de 72.163.4.185ÿ: octets=32 temps=125 ms TTL=238
+R‚ponse de 72.163.4.185ÿ: octets=32 temps=126 ms TTL=238
+R‚ponse de 72.163.4.185ÿ: octets=32 temps=125 ms TTL=238
+
+Statistiques Ping pour 72.163.4.185:
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 124ms, Maximum = 126ms, Moyenne = 125ms
+La requˆte Ping n'a pas pu trouver l'h“te cisco.com. V‚rifiez le nom et essayez … nouveau.
+Organismes principaux d'Internet 
+
+Envoi d'une requˆte 'ping' sur www.afrinic.net [196.216.2.6] avec 32 octets de donn‚esÿ:
+R‚ponse de 196.216.2.6ÿ: octets=32 temps=196 ms TTL=49
+R‚ponse de 196.216.2.6ÿ: octets=32 temps=196 ms TTL=49
+R‚ponse de 196.216.2.6ÿ: octets=32 temps=196 ms TTL=49
+R‚ponse de 196.216.2.6ÿ: octets=32 temps=195 ms TTL=49
+
+Statistiques Ping pour 196.216.2.6:
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 195ms, Maximum = 196ms, Moyenne = 195ms
+
+Envoi d'une requˆte 'ping' sur www.apnic.net.cdn.cloudflare.net [104.18.235.68] avec 32 octets de donn‚esÿ:
+R‚ponse de 104.18.235.68ÿ: octets=32 temps=12 ms TTL=57
+R‚ponse de 104.18.235.68ÿ: octets=32 temps=14 ms TTL=57
+R‚ponse de 104.18.235.68ÿ: octets=32 temps=12 ms TTL=57
+R‚ponse de 104.18.235.68ÿ: octets=32 temps=13 ms TTL=57
+
+Statistiques Ping pour 104.18.235.68:
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 12ms, Maximum = 14ms, Moyenne = 12ms
+
+Envoi d'une requˆte 'ping' sur www.ripe.net.cdn.cloudflare.net [104.18.20.44] avec 32 octets de donn‚esÿ:
+R‚ponse de 104.18.20.44ÿ: octets=32 temps=13 ms TTL=57
+R‚ponse de 104.18.20.44ÿ: octets=32 temps=69 ms TTL=57
+R‚ponse de 104.18.20.44ÿ: octets=32 temps=13 ms TTL=57
+R‚ponse de 104.18.20.44ÿ: octets=32 temps=12 ms TTL=57
+
+Statistiques Ping pour 104.18.20.44:
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 12ms, Maximum = 69ms, Moyenne = 26ms
+
+Envoi d'une requˆte 'ping' sur www.lacnic.net [200.3.14.145] avec 32 octets de donn‚esÿ:
+R‚ponse de 200.3.14.145ÿ: octets=32 temps=195 ms TTL=46
+R‚ponse de 200.3.14.145ÿ: octets=32 temps=195 ms TTL=46
+R‚ponse de 200.3.14.145ÿ: octets=32 temps=194 ms TTL=46
+R‚ponse de 200.3.14.145ÿ: octets=32 temps=194 ms TTL=46
+
+Statistiques Ping pour 200.3.14.145:
+    Paquetsÿ: envoy‚s = 4, re‡us = 4, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 194ms, Maximum = 195ms, Moyenne = 194ms
+
+Envoi d'une requˆte 'ping' sur www.arin.net [192.136.136.47] avec 32 octets de donn‚esÿ:
+D‚lai d'attente de la demande d‚pass‚.
+D‚lai d'attente de la demande d‚pass‚.
+D‚lai d'attente de la demande d‚pass‚.
+D‚lai d'attente de la demande d‚pass‚.
+
+Statistiques Ping pour 192.136.136.47:
+    Paquetsÿ: envoy‚s = 4, re‡us = 0, perdus = 4 (perte 100%),
+La requˆte Ping n'a pas pu trouver l'h“te www.afrinic.net. V‚rifiez le nom et essayez … nouveau.
+La requˆte Ping n'a pas pu trouver l'h“te www.apnic.net. V‚rifiez le nom et essayez … nouveau.
+La requˆte Ping n'a pas pu trouver l'h“te www.ripe.net. V‚rifiez le nom et essayez … nouveau.
+La requˆte Ping n'a pas pu trouver l'h“te www.lacnic.net. V‚rifiez le nom et essayez … nouveau.
+La requˆte Ping n'a pas pu trouver l'h“te www.arin.net. V‚rifiez le nom et essayez … nouveau.
+Suivre une route vers un serveur distant … l'aide de la commande Tracert 
+
+D‚termination de l'itin‚raire vers e2867.dsca.akamaiedge.net [23.218.21.63]
+avec un maximum de 30 sautsÿ:
+
+  1     1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     1 ms     1 ms     1 ms  172.31.1.254 
+  3     3 ms     2 ms     2 ms  100.100.1.160 
+  4     5 ms     3 ms     4 ms  46.18.224.51 
+  5     6 ms     6 ms     6 ms  rhoval.peers.lyonix.net [77.95.71.72] 
+  6    16 ms    16 ms    16 ms  zayo-6461.rezopole.net [77.95.71.77] 
+  7    16 ms    17 ms    18 ms  ae3.cs1.cdg11.fr.zip.zayo.com [64.125.27.14] 
+  8    17 ms    16 ms    16 ms  ae4.er1.cdg15.fr.zip.zayo.com [64.125.27.171] 
+  9    33 ms    48 ms    53 ms  213.161.73.38.IPYX-298409-900-ZYO.zip.zayo.com [213.161.73.38] 
+ 10     *        *        *     D‚lai d'attente de la demande d‚pass‚.
+ 11     *        *        *     D‚lai d'attente de la demande d‚pass‚.
+ 12     *        *        *     D‚lai d'attente de la demande d‚pass‚.
+ 13    20 ms    20 ms    20 ms  a23-218-21-63.deploy.static.akamaitechnologies.com [23.218.21.63] 
+
+Itin‚raire d‚termin‚.
+
+D‚termination de l'itin‚raire vers peugeot.fr [217.70.184.55]
+avec un maximum de 30 sautsÿ:
+
+  1     1 ms    <1 ms     1 ms  192.168.1.1 
+  2     1 ms     1 ms     1 ms  172.31.1.254 
+  3     2 ms     2 ms     2 ms  100.100.1.160 
+  4    21 ms     7 ms     6 ms  46.18.224.51 
+  5     6 ms     6 ms     6 ms  rhoval.peers.lyonix.net [77.95.71.72] 
+  6     8 ms     6 ms     6 ms  rtr-interixp-l2-v500.rezopole.net [77.95.71.252] 
+  7    12 ms    12 ms    12 ms  gandi.par.franceix.net [37.49.236.154] 
+  8    11 ms    12 ms    12 ms  et18-1.core-2.csd4.gandi.net [173.246.102.3] 
+  9    12 ms    12 ms    11 ms  et53-1.core-1.sd4.gandi.net [173.246.102.5] 
+ 10    11 ms    11 ms    11 ms  10.12.0.6 
+ 11    21 ms    24 ms    28 ms  webredir.gandi.net [217.70.184.55] 
+
+Itin‚raire d‚termin‚.
+
+D‚termination de l'itin‚raire vers sfr.fr [80.125.163.172]
+avec un maximum de 30 sautsÿ:
+
+  1     1 ms    <1 ms    <1 ms  192.168.1.1 
+  2     2 ms     2 ms     1 ms  172.31.1.254 
+  3     3 ms     2 ms     2 ms  100.100.1.160 
+  4     4 ms     3 ms     2 ms  46.18.224.51 
+  5     6 ms     6 ms     6 ms  rhoval.peers.lyonix.net [77.95.71.72] 
+  6    37 ms    36 ms    33 ms  sfr.peers.lyonix.net [77.95.71.13] 
+  7    15 ms    15 ms    12 ms  60.146.6.194.rev.sfr.net [194.6.146.60] 
+  8    13 ms    12 ms    12 ms  60.146.6.194.rev.sfr.net [194.6.146.60] 
+  9    13 ms    14 ms    15 ms  202.13.6.109.rev.sfr.net [109.6.13.202] 
+ 10     *        *        *     D‚lai d'attente de la demande d‚pass‚.
+ 11    39 ms    12 ms    12 ms  80.125.163.172 
+
+Itin‚raire d‚termin‚.
+
+D‚termination de l'itin‚raire vers cisco.fr [72.163.4.154]
+avec un maximum de 30 sautsÿ:
+
+  1    10 ms    36 ms     9 ms  192.168.1.1 
+  2    22 ms    17 ms    15 ms  172.31.1.254 
+  3     7 ms     5 ms     9 ms  100.100.1.160 
+  4    27 ms    34 ms    49 ms  46.18.224.51 
+  5    13 ms    16 ms    18 ms  cpe-et012708.cust.jaguar-network.net [85.31.197.93] 
+  6     8 ms    18 ms     *     hu0-0-2-1.er02.lyo03.jaguar-network.net [85.31.197.92] 
+  7    17 ms    15 ms    12 ms  be2.er02.par01.jaguar-network.net [78.153.231.103] 
+  8     *        *        *     D‚lai d'attente de la demande d‚pass‚.
+  9   148 ms   142 ms   148 ms  ae3.5.edge5.Dallas3.level3.net [4.69.208.229] 
+ 10   141 ms   138 ms   140 ms  CISCO-SYSTE.edge5.Dallas3.Level3.net [4.59.34.66] 
+ 11   139 ms   134 ms   129 ms  128.107.2.5 
+ 12   126 ms   128 ms   126 ms  72.163.0.98 
+ 13   127 ms   125 ms   179 ms  rcdn9-cd2-dmzdcc-gw2-por1.cisco.com [72.163.0.182] 
+ 14   133 ms   125 ms   127 ms  rcdn9-br07-fab1-sw3812-dmzdcc1uplink.cisco.com [72.163.2.206] 
+ 15     *        *        *     D‚lai d'attente de la demande d‚pass‚.
+ 16     *        *        *     D‚lai d'attente de la demande d‚pass‚.
+ 17   126 ms   127 ms   126 ms  hsrp-72-163-4-129.cisco.com [72.163.4.129] 
+ 18   125 ms   126 ms   131 ms  redirect.cisco.com [72.163.4.154] 
+
+Itin‚raire d‚termin‚.
+
+D‚termination de l'itin‚raire vers google.com [142.250.179.110]
+avec un maximum de 5 sautsÿ:
+
+  1     1 ms     1 ms     1 ms  192.168.1.1 
+  2     1 ms     1 ms     1 ms  172.31.1.254 
+  3     5 ms     3 ms     2 ms  100.100.1.160 
+  4    91 ms     3 ms     4 ms  46.18.224.51 
+  5     6 ms    11 ms     6 ms  rhoval.peers.lyonix.net [77.95.71.72] 
+
+Itin‚raire d‚termin‚.
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://ping.eu/">here</a>.</p>
+</body></html>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.subnetonline.com/pages/network-tools/online-tracepath.php">here</a>.</p>
+</body></html>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="fr" xml:lang="fr">
+<head>
+<title>
+Bienvenue                                        
+[Root Me : plateforme d'apprentissage dÃ©diÃ©e au Hacking et Ã  la SÃ©curitÃ© de l'Information]
+</title>
+<meta name="description" content="Root Me est une plateforme permettant &#224; chacun de tester et d&#039;am&#233;liorer ses connaissances dans le domaine de la s&#233;curit&#233; informatique et du hacking &#224; travers la publication de challenges, de solutions, d&#039;articles." />
+<meta name="keywords" content="hack, hacking, challenge, solution, exercice, hacking challenge, hack challenge, exercice hack, exercice hacking, capture the flag, CTF, security, sÃ©curitÃ©, Documentation,Applicatif,Cryptologie,Challenges,R&#233;seaux,Cracking,Web - Client,Programmation,Cryptanalyse,Communaut&#233;,Chat Box,Application,Pr&#233;sentation,Session,Transport ,R&#233;seau,Liaison,Physique,St&#233;ganographie,Web - Serveur,Cracking,R&#233;aliste,Informations,L&#039;association,Faiblesses D&#233;couvertes,Forum,Le projet,Challenges, Hacking et S&#233;curit&#233; Informatique,G&#233;n&#233;ral,Contribuer,Serveur Discord,R&#233;seau,Capture The Flag,App - Script,Calendrier,CTF all the day,Capture The Flag,Sponsors &#38; Partenaires,App - Syst&#232;me,Forensic,Web,Discuter," />
+<link rel="alternate" type="application/rss+xml" title="RSS [Root Me : plateforme d&#039;apprentissage d&#233;di&#233;e au Hacking et &#224; la S&#233;curit&#233; de l&#039;Information]" href="https://www.root-me.org?page=backend&amp;lang=fr" />
+<link rel="alternate" type="application/rss+xml" title="RSS (breves) [Root Me : plateforme d&#039;apprentissage d&#233;di&#233;e au Hacking et &#224; la S&#233;curit&#233; de l&#039;Information]" href="https://www.root-me.org?page=backend-breves&amp;lang=fr" />
+<link rel="alternate" type="application/rss+xml" title="RSS Forum [Root Me : plateforme d&#039;apprentissage d&#233;di&#233;e au Hacking et &#224; la S&#233;curit&#233; de l&#039;Information]" href="https://www.root-me.org?page=backend-forums&amp;lang=fr" />
+<link rel="alternate" type="application/rss+xml" title="RSS challenges [Root Me : plateforme d&#039;apprentissage d&#233;di&#233;e au Hacking et &#224; la S&#233;curit&#233; de l&#039;Information]" href="https://www.root-me.org?page=backend-challenges&amp;lang=fr" />
+<link rel="alternate" type="application/rss+xml" title="RSS solutions [Root Me : plateforme d&#039;apprentissage d&#233;di&#233;e au Hacking et &#224; la S&#233;curit&#233; de l&#039;Information]" href="https://www.root-me.org?page=backend-solutions&amp;lang=fr" />
+<link rel="alternate" type="application/rss+xml" title="RSS CTF all the day [Root Me : plateforme d&#039;apprentissage d&#233;di&#233;e au Hacking et &#224; la S&#233;curit&#233; de l&#039;Information]" href="https://www.root-me.org?page=backend-ctfalltheday&amp;lang=fr" />
+<link rel="alternate" type="application/rss+xml" title="RSS CTF calendar [Root Me : plateforme d&#039;apprentissage d&#233;di&#233;e au Hacking et &#224; la S&#233;curit&#233; de l&#039;Information]" href="https://www.root-me.org?page=backend-ctf&amp;lang=fr" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />            
+<meta name="color-scheme" content="light dark"/>
+<link rel='stylesheet' href='local/cache-css/79909d31a85f6ab49a36ee1047c62d85.css?1694166339' type='text/css' />    
+<script type="text/javascript">/* <![CDATA[ */
+var mediabox_settings={"auto_detect":true,"ns":"box","tt_img":true,"sel_g":"#documents_portfolio a[type='image\/jpeg'],#documents_portfolio a[type='image\/png'],#documents_portfolio a[type='image\/gif']","sel_c":".mediabox, .popin","str_ssStart":"Diaporama","str_ssStop":"Arr\u00eater","str_cur":"{current}\/{total}","str_prev":"Pr\u00e9c\u00e9dent","str_next":"Suivant","str_close":"Fermer","str_loading":"Chargement\u2026","str_petc":"Taper \u2019Echap\u2019 pour fermer","str_dialTitDef":"Boite de dialogue","str_dialTitMed":"Affichage d\u2019un media","splash_url":"","colorbox":{"skin":"black-striped","transition":"elastic","speed":"100","maxWidth":"90%","maxHeight":"90%","minWidth":"400px","minHeight":"","slideshow_speed":"2500","opacite":"0.8"}};
+/* ]]> */</script>
+<!-- insert_head_css -->
+<script type='text/javascript'>
+var jQl={q:[],dq:[],gs:[],ready:function(a){"function"==typeof a&&jQl.q.push(a);return jQl},getScript:function(a,c){jQl.gs.push([a,c])},unq:function(){for(var a=0;a<jQl.q.length;a++)jQl.q[a]();jQl.q=[]},ungs:function(){for(var a=0;a<jQl.gs.length;a++)jQuery.getScript(jQl.gs[a][0],jQl.gs[a][1]);jQl.gs=[]},bId:null,boot:function(a){"undefined"==typeof window.jQuery.fn?jQl.bId||(jQl.bId=setInterval(function(){jQl.boot(a)},25)):(jQl.bId&&clearInterval(jQl.bId),jQl.bId=0,jQl.unqjQdep(),jQl.ungs(),jQuery(jQl.unq()), "function"==typeof a&&a())},booted:function(){return 0===jQl.bId},loadjQ:function(a,c){setTimeout(function(){var b=document.createElement("script");b.src=a;document.getElementsByTagName("head")[0].appendChild(b)},1);jQl.boot(c)},loadjQdep:function(a){jQl.loadxhr(a,jQl.qdep)},qdep:function(a){a&&("undefined"!==typeof window.jQuery.fn&&!jQl.dq.length?jQl.rs(a):jQl.dq.push(a))},unqjQdep:function(){if("undefined"==typeof window.jQuery.fn)setTimeout(jQl.unqjQdep,50);else{for(var a=0;a<jQl.dq.length;a++)jQl.rs(jQl.dq[a]); jQl.dq=[]}},rs:function(a){var c=document.createElement("script");document.getElementsByTagName("head")[0].appendChild(c);c.text=a},loadxhr:function(a,c){var b;b=jQl.getxo();b.onreadystatechange=function(){4!=b.readyState||200!=b.status||c(b.responseText,a)};try{b.open("GET",a,!0),b.send("")}catch(d){}},getxo:function(){var a=!1;try{a=new XMLHttpRequest}catch(c){for(var b=["MSXML2.XMLHTTP.5.0","MSXML2.XMLHTTP.4.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"],d=0;d<b.length;++d){try{a= new ActiveXObject(b[d])}catch(e){continue}break}}finally{return a}}};if("undefined"==typeof window.jQuery){var $=jQl.ready,jQuery=$;$.getScript=jQl.getScript};
+jQl.loadjQ('local/cache-js/6c8ba9bacc1af4bf083ba9fa64516c50.js?1694166341')
+</script>
+<!-- insert_head -->
+<script>jQl.loadjQ("https://www.root-me.org/local/cache-js/jsdyn-script_onload_js-1146a546.js?1700499271");</script>
+<script  defer src="https://www.googletagmanager.com/gtag/js?id=G-SRYSKX09J7"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-SRYSKX09J7', { 'anonymize_ip': true });
+</script>        
+<link rel="icon" type="image/x-icon" href="https://www.root-me.org/squelettes/img/rblack.ico?1448449194" />
+<link rel="icon" type="image/png" href="https://www.root-me.org/squelettes/img/rblackGrand32.png?1556531825" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://www.root-me.org/squelettes/img/rblackGrand16.png?1556531831" sizes="16x16" />   
+</head>
+<body class="antialiased hide-extras" dir="ltr" itemscope itemtype="https://schema.org/WebPage">
+<div id="container" class="sommaire">
+<div id="sommaire">
+<header id="header" role="banner">
+<nav class="top-bar" data-topbar>
+<ul class="title-area" itemprop="isPartOf" itemscope itemtype="https://schema.org/WebSite">
+<li class="name">
+<a itemprop="url" href="https://www.root-me.org?lang=fr" title="la root est longue mais la voie est Libre" target="_top">
+<img width="48" height="48" alt="logo https://www.root-me.org" src="IMG/logo/siteon0.svg?1637496509" itemprop="image"  />
+<span class="show-for-large-up noir" itemprop="name">Root&nbsp;Me</span>
+</a>
+</li>
+</ul>
+<section class="top-bar-section">
+<ul class="right">    
+<li class="lang">
+<span>
+<span>
+<a id="url_en" href="./?lang=en" title="English"><img class="vmiddle" src="squelettes/img/pays/en.svg" alt="English" height="16" width="16"/></a>
+<a id="url_de" href="./?lang=de" title="Deutsch"><img class="vmiddle" src="squelettes/img/pays/de.svg" alt="Deutsch" height="16" width="16"/></a>
+<a id="url_es" href="./?lang=es" title="Espa&#241;ol"><img class="vmiddle" src="squelettes/img/pays/es.svg" alt="Espa&#241;ol" height="16" width="16"/></a>
+<a id="url_ru" href="./?lang=ru" title="&#1088;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;"><img class="vmiddle" src="squelettes/img/pays/ru.svg" alt="&#1088;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;" height="16" width="16"/></a>
+<a id="url_zh" href="./?lang=zh" title="&#20013;&#25991;"><img class="vmiddle" src="squelettes/img/pays/zh.svg" alt="&#20013;&#25991;" height="16" width="16"/></a>
+</span>
+<a href="#"><img width="16" height="16" src=squelettes/img/pays/fr.svg alt="fr" class="grayscale" title="fr"/></a>
+</span>
+</li>
+<li>
+<span class="show-for-medium-up">
+<a class="button login mediabox pageajax boxHeight-390px" data-box-type="ajax" href="./?page=login&amp;lang=fr" title="J'ai dÃ©jÃ  un compte">J'ai dÃ©jÃ  un compte</a>
+</span>
+<a class="hide-for-medium-up mediabox pageajax boxHeight-390px" data-box-type="ajax" href="./?page=login&amp;lang=fr" title="J'ai dÃ©jÃ  un compte"><img src="squelettes/img/login.svg" alt="login" class="vmiddle" width="32" height="32"/></a>
+</li>      
+<li class="hide-for-small-only"><a id="ss_box_rmp" title="AccÃ¨s Ã©coles & entreprise" class="shake  expand gras" href="#acces_rmp"><img src="squelettes/img/university.svg" alt="Root Me for Pro" class="vmiddle" width="32" height="32"/></a></li>         
+</ul>
+</section>
+</nav>
+</header>
+<main id="main" itemprop="mainContentOfPage" itemscope itemtype="https://schema.org/WebPageElement">
+<div class="row text-center" style="background: #000; padding: 40px 0 15px 0; margin-bottom: 30px;">
+<div class="small-12 medium-10 small-centered columns" >
+<div class="small-12 large-6 columns">
+<img alt="logo https://www.root-me.org" src="IMG/logo/siteon0.svg?1637496509" width="150" height="150" class="invert vmiddle"/>
+<h1 class="blanc">Une plateforme rapide, accessible et rÃ©aliste pour tester vos compÃ©tences en hacking.</h1>
+<h3 style="padding-bottom: 15px">la root est longue mais la voie est Libre</h3>
+</div>    
+<div id="inscription" class="small-12 large-6 columns noir columns"  >
+<div class="tile">
+<div class="t-body tb-padding"  >
+<div id="sommaire_inscription">
+<noscript><br/><a class="button large" href="./?page=identifiants&amp;lang=fr">CrÃ©er un compte</a></noscript>
+</div>
+<script>
+//<![CDATA[
+$(document).ready(function(){
+$("#sommaire_inscription").load("/?page=identifiants&ajah=1&lang=fr");
+});
+//]]>
+</script>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row small-12 medium-11 large-10">
+<div id="box_forum" class="large-4 columns"  >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding: 0;">
+<div id="acces_forum" class="div_svg medium-12 large-12 columns">
+<div class="opacify">
+<h3 class="text-center txt_6forum"><img src="squelettes/img/statut_forum.svg" alt="0x0" width="48" height="48"/>&nbsp;AccÃ¨s visiteur</h3>
+<ul class="features lforum">
+<li>une communautÃ© ouverte <b>Ã  toutes et tous</b> <a class="mediabox pageajax" data-box-type="ajax" href="https://www.root-me.org?page=structure&amp;inc=page-mentions_legales&amp;lang=fr" title="Mentions LÃ©gales"><img src="squelettes/img/question_mark.svg" width="16" height="16" alt="Mentions LÃ©gales"/></a></li>
+<li>entrainez vous gratuitement sur <b>des exercices variÃ©s</b></li>
+<li>consultez les solutions proposÃ©es par les autres membres</li>
+<li><b>cotisez Ã  l'association</b> <a class="mediabox pageajax" data-box-type="ajax" href="./?page=structure&amp;inc=modeles%2Finformations_cotisation&amp;lang=fr" title="en tant que membre vous pouvez"><img src="squelettes/img/question_mark.svg" width="16" height="16" alt="en tant que membre vous pouvez"/></a> et bÃ©nÃ©ficiez d'un <a href="#acces_comite" class="txt_1comite">accÃ¨s contributeur</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>      
+<div id="box_comite" class="large-4 columns"  >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding: 0;">
+<div id="acces_comite" class="div_svg medium-12 large-12 columns">
+<div class="opacify right">
+<h3 class="text-center txt_1comite">AccÃ¨s contributeur&nbsp;<img src="squelettes/img/statut_comite.svg" alt="0x0" width="48" height="48"/></h3>
+<ul class="features lright lcomite">
+<li><b>soyez rÃ©compensÃ©</b> <a href="#recompense_process"><img src="squelettes/img/question_mark.svg" class="img_nb" width="16" height="16" alt=""/></a> pour vos crÃ©ations</li>
+<li><b>contribuez</b> Ã  la modÃ©ration, la relecture des solutions</li>
+<li><b>participez Ã  la crÃ©ation</b> et aux tests des exercices</li>
+<li>contribuez <b>activement</b> <a class="mediabox pageajax" data-box-type="ajax" href="./?page=structure&amp;inc=modeles%2Finformations_cotisation&amp;lang=fr" title="en tant que membre vous pouvez"><img src="squelettes/img/question_mark.svg" width="16" height="16" alt="en tant que membre vous pouvez"/></a> et bÃ©nÃ©ficiez d'un <a href="#acces_pre" class="txt_5pre">accÃ¨s premium</a></li>                      
+</ul>
+</div>                    
+</div>
+</div>
+</div>
+</div>
+<div id="box_pre" class="large-4 columns"  >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding: 0;">
+<div id="acces_pre" class="div_svg medium-12 large-12 columns">
+<div class="opacify">
+<h3 class="text-center txt_5pre"><img src="squelettes/img/statut_pre.svg" alt="0x0" width="48" height="48"/>&nbsp;AccÃ¨s premium</h3>
+<ul class="features lpre">
+<li>bÃ©nÃ©ficiez des <b>derniers exercices</b> imaginÃ©s par les contributeurs</li>
+<li>mettez en avant votre expertise grÃ¢ce aux <b>badges de compÃ©tences</b></li>
+<li>dÃ©marrez une carriÃ¨re dans la sÃ©curitÃ© des systÃ¨mes d'information</li>
+<li>votre abonnement <b>sert Ã  financer les nouveaux challenges</b></li>
+</ul>                 
+</div>                   
+</div>
+</div>
+</div>
+</div>
+</div>  
+<div class="row">
+<div id="box_rmp" class="small-12 medium-11 large-10 small-centered columns columns"  >
+<div class="tile">
+<div class="t-body tb-padding"  style="padding: 0;">
+<div id="acces_rmp" class="div_svg medium-12 large-12 columns" >
+<div class="right opacify">
+<h3 class="text-center noir">AccÃ¨s Ã©coles & entreprise</h3>
+<ul class="features lright" style="margin-right: 25px">
+<li><b>entraÃ®nez vos Ã©quipes</b> sur des environnements professionnels</li>
+<li><b>suivez la progression</b> de vos Ã©quipes</li>
+<li>identifiez de nouveaux talents</li>
+<li><b>organisez votre CTF</b> lors de vos Ã©venements</li>
+</ul>
+<div style="margin: 25px 0 0 0; padding-bottom: 15px;">
+<h3 class="noir text-center"><a class="noir" href="http://pro.root-me.org/?lang=fr">pro.root-me.org</a></h3>
+</div>                  
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>  
+<div class="row small-12 medium-11 large-10 small-centered text-center">
+<div  class="large-4 columns"  >
+<div class="tile">
+<div class="t-body tb-padding"  >
+<div class="large-12 columns">
+<div class="img_round"><img src='IMG/logo/rubon5.svg?1637496507' alt='challenges' class='vmiddle' width='48' height='48' /></div>
+<h3 class="noir"><span class="color1">541</span>&nbsp;Challenges</h3>
+</div>
+<div class="large-12 columns text-center">
+<p class="text-center">Plusieurs centaines de challenges sont Ã  votre disposition pour vous entrainer dans des environnements variÃ©s, rÃ©alistes et maitriser un grand nombre de techniques de hack !</p>
+<p class="text-center">
+<a href="fr/Challenges/Web-Client/" title="Apprenez &#224; exploiter les failles des applications web pour impacter leurs utilisateurs ou contourner des m&#233;canismes de s&#233;curit&#233; c&#244;t&#233; client."><img src='IMG/logo/rubon16.svg?1637496498' alt='Web - Client' class='vmiddle' width='24' height='24' /></a>
+&nbsp;
+<a href="fr/Challenges/Programmation/" title="Automatisez des t&#226;ches de plus en plus complexes pour valider ces challenges en moins de quelques secondes."><img src='IMG/logo/rubon17.svg?1637496498' alt='Programmation' class='vmiddle' width='24' height='24' /></a>
+&nbsp;
+<a href="fr/Challenges/Cryptanalyse/" title="Retrouvez les secrets prot&#233;g&#233;s par des syst&#232;mes de chiffrement plus ou moins solides en r&#233;alisant des attaques cryptographiques."><img src='IMG/logo/rubon18.svg?1637496499' alt='Cryptanalyse' class='vmiddle' width='24' height='24' /></a>
+&nbsp;
+<a href="fr/Challenges/Steganographie/" title="Si la cryptographie est l&#039;art du secret, la st&#233;ganographie est l&#039;art de la dissimulation : l&#039;objet de la st&#233;ganographie n&#039;est pas de rendre un message inintelligible aux personnes non autoris&#233;es mais de le faire passer inaper&#231;u."><img src='IMG/logo/rubon67.svg?1637496507' alt='St&#233;ganographie' class='vmiddle' width='24' height='24' /></a>
+&nbsp;
+<a href="fr/Challenges/Web-Serveur/" title="Ces &#233;preuves vous permettront d&#039;appr&#233;hender les techniques intrusives retrouv&#233;es sur le web, allant de l&#039;exploitation de faiblesses de configuration jusqu&#039;aux injections de code c&#244;t&#233; serveur."><img src='IMG/logo/rubon68.svg?1637496507' alt='Web - Serveur' class='vmiddle' width='24' height='24' /></a>
+&nbsp;
+<a href="fr/Challenges/Cracking/" title="Ces challenges permettent de comprendre le sens du terme &#171; langage compil&#233; &#187;. Ce sont des fichiers binaires &#224; d&#233;cortiquer pour aller chercher les instructions bas niveau permettant de r&#233;pondre au probl&#232;me pos&#233;."><img src='IMG/logo/rubon69.svg?1637496508' alt='Cracking' class='vmiddle' width='24' height='24' /></a>
+&nbsp;
+<a href="fr/Challenges/Realiste/" title="Vous allez vous retrouver dans des environnements complets sur des th&#232;mes divers et vari&#233;s. &#192; vous d&#039;en comprendre le fonctionnement, d&#039;identifier les faiblesses et de cibler les vuln&#233;rabilit&#233;s &#224; exploiter."><img src='IMG/logo/rubon70.svg?1637496509' alt='R&#233;aliste' class='vmiddle' width='24' height='24' /></a>
+&nbsp;
+<a href="fr/Challenges/Reseau/" title="Apprenez &#224; analyser et &#224; manipuler les diff&#233;rents protocoles et services les plus courants pour les tourner &#224; votre avantage."><img src='IMG/logo/rubon182.svg?1637496499' alt='R&#233;seau' class='vmiddle' width='24' height='24' /></a>
+&nbsp;
+<a href="fr/Challenges/App-Script/" title="Cette s&#233;rie d&#039;&#233;preuves vous confronte aux vuln&#233;rabilit&#233;s li&#233;es &#224; des faiblesses d&#039;environnement, de configuration ou encore &#224; des erreurs de d&#233;veloppement dans des langages de script ou de programmation."><img src='IMG/logo/rubon189.svg?1637496499' alt='App - Script' class='vmiddle' width='24' height='24' /></a>
+&nbsp;
+<a href="fr/Challenges/App-Systeme/" title="Cette s&#233;rie d&#039;&#233;preuves vous confronte aux vuln&#233;rabilit&#233;s applicatives principalement li&#233;es aux erreurs de programmation aboutissant &#224; des corruptions de zones m&#233;moire."><img src='IMG/logo/rubon203.svg?1637496500' alt='App - Syst&#232;me' class='vmiddle' width='24' height='24' /></a>
+&nbsp;
+<a href="fr/Challenges/Forensic/" title="Mettez &#224; l&#039;&#233;preuve vos techniques d&#039;investigations num&#233;riques en analysant des traces m&#233;moire, des fichiers de journalisation, des captures r&#233;seaux..."><img src='IMG/logo/rubon208.svg?1637496500' alt='Forensic' class='vmiddle' width='24' height='24' /></a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div  class="large-4 columns"  >
+<div class="tile">
+<div class="t-body tb-padding"  >
+<div class="large-12 columns">                    
+<div class="img_round"><img src='plugins/ctf_alltheday/img/ctf_liste_salle.svg?1566653899' alt='ctf_alltheday' class='vmiddle' width='48' height='48' /></div>
+<h3 class="noir"><span class="color1">171</span>&nbsp;Environnements Virtuels</h3>                
+</div>
+<div class="large-12 columns">
+<p class="text-center">Des dizaines d'environnements virtuels sont Ã  votre disposition, accessibles en quelques clics, pour vous offrir un terrain de jeu toujours plus rÃ©aliste, sans aucune limitation.</p>
+<p class="text-center">
+<img src='squelettes/img/logo/linux.png?1544125073' alt='linux' class='vmiddle' width='24' height='24' />
+<img src='squelettes/img/logo/windows.png?1544125123' alt='windows' class='vmiddle' width='24' height='24' />
+<img src='squelettes/img/logo/android.png?1544125068' alt='android' class='vmiddle' width='24' height='24' />
+<img src='squelettes/img/logo/java.png?1544125093' alt='java' class='vmiddle' width='24' height='24' />                          
+<img src='squelettes/img/logo/python.png?1544125089' alt='python' class='vmiddle' width='24' height='24' />
+<img src='squelettes/img/logo/php.png?1544125086' alt='php' class='vmiddle' width='24' height='24' />
+<img src='squelettes/img/logo/mysql.png?1544125097' alt='mysql' class='vmiddle' width='24' height='24' />
+<img src='squelettes/img/logo/postgresql.png?1544125800' alt='postgresql' class='vmiddle' width='24' height='24' />
+<img src='squelettes/img/logo/apache.png?1544125529' alt='apache' class='vmiddle' width='24' height='24' />
+<img src='squelettes/img/logo/nginx.png?1544125461' alt='nginx' class='vmiddle' width='24' height='24' />
+</p>
+</div>
+</div>
+</div>
+</div>
+<div  class="large-4 columns"  >
+<div class="tile">
+<div class="t-body tb-padding"  >
+<div class="large-12 columns">
+<div class="img_round"><img src='squelettes/img/solution.svg?1566640207' alt='solution' class='vmiddle' width='48' height='48' /></div>
+<h3 class="noir"><span class="color1">5496</span>&nbsp;Solutions</h3>
+</div>
+<div class="large-12 columns">
+<p class="text-center">Chaque challenge est associÃ© Ã  une multitude de solutions, de ressources associÃ©es vous permettant d'apprendre et de voir le raisonnement suivi par d'autres internautes.</p>
+<p class="text-center">
+<img src='squelettes/img/pays/fr.svg?1594376628' alt='fr' class='vmiddle' width='24' height='24' title='fr' />
+&nbsp;
+<img src='squelettes/img/pays/en.svg?1637569714' alt='en' class='vmiddle' width='24' height='24' title='in' />
+&nbsp;
+<img src='squelettes/img/pays/de.svg?1594376628' alt='de' class='vmiddle' width='24' height='24' title='de' />
+&nbsp;
+<img src='squelettes/img/pays/es.svg?1594376629' alt='es' class='vmiddle' width='24' height='24' title='es' />
+&nbsp;
+<img src='squelettes/img/pays/ru.svg?1594376629' alt='ru' class='vmiddle' width='24' height='24' title='ru' />
+&nbsp;
+<img src='squelettes/img/pays/zh.svg?1637570498' alt='zh' class='vmiddle' width='24' height='24' title='zh' />
+</p>
+</div>
+</div>
+</div>
+</div> 
+</div>
+<div class="row text-center" style="background: #000; padding: 45px 15px 15px 15px;">
+<div class="small-12 medium-11 large-10 small-centered columns text-centered">
+<div  class="small-12 columns" style="padding-bottom: 0;" >
+<div class="tile">
+<div class="t-body tb-padding"  >
+<h1 id="recompense_process">Soyez rÃ©compensÃ© pour vos crÃ©ations&nbsp;*</h1>
+<div class="row text-center" style="padding-top: 10px;">
+<div class="small-12 large-4 columns">
+<h3 class="step">
+<span>1</span>
+choisissez parmi les sujets proposÃ©s
+</h3>
+<p class="text-center">
+<a href="fr/Communaute/Contribuer/"><img src='squelettes/img/creations_recompensees.svg?1573023060' alt='creations_recompensees' class='img_nb' width='64' height='64' /></a>
+</p>
+</div>
+<div class="small-12 large-4 columns">
+<h3 class="step">                    
+<span>2</span>
+faites valider votre travail
+</h3>                        
+<div class="approuve_par_le_staff" style="background: url('squelettes/img/team.svg') bottom no-repeat; background-size: 64px; width: 128px; height: 100px; margin: 10px auto 0 auto; padding-top: 0.25rem;">
+<div class="tl gras" style="transform: rotate(7deg); padding: 5px; margin: 0 auto; color: red; border: 3px solid red; border-radius: 5px; width: 80%; text-transform: uppercase;">
+approuvÃ© par le staff
+</div>
+</div>
+</div>
+<div class="small-12 large-4 columns">
+<h3 class="step">                    
+<span>3</span>
+soyez publiÃ© et rÃ©compensÃ©*
+</h3>
+<p class="text-center">
+<img src='squelettes/img/recompense.svg?1573023121' alt='recompense' class='img_nb' width='64' height='64' />
+</p>
+</div>
+</div>
+<div class="row txs text-right">
+* RÃ©servÃ© aux membres de l'association&nbsp;&nbsp;<a class="mediabox pageajax" data-box-type="ajax" href="./?page=structure&amp;inc=modeles%2Finformations_cotisation&amp;lang=fr" title="en tant que membre vous pouvez"><img src="squelettes/img/question_mark.svg" width="16" height="16" alt="en tant que membre vous pouvez"/></a>
+</div>
+</div>
+</div>
+</div>              
+</div>    
+</div>
+<div class="row text-center" style="padding-top: 30px;">
+<div class="small-12 medium-11 large-10 small-centered columns">
+<div  class="small-12 columns"  >
+<div class="tile">
+<div class="t-body tb-padding"  >
+<h1>Ils nous font confiance</h1>
+<h3 style="margin-bottom: 25px">Root-Me est utilisÃ© mondialement par plus de 660&nbsp;000 Ã©tudiants, particuliers et professionnels</h3>
+<div class="row">
+<div class="columns small-12 logos_users">
+<img src="IMG/png/synacktiv-2.png?1579795654" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="32" /> <img src="IMG/png/geoide-black.png?1594280168" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="33" /> <img src="IMG/jpg/enstabretagne-logoh-rvb-couleur-200.jpg?1601275378" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="39" /> <img src="https://www.esiee-it.fr/themes/custom/generic/medias/logo-esiee-it.png" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="31" /> <img src="https://www.flexgrid.fr/wp-content/uploads/2017/11/cfai84.jpg" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="67" /> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/d/d4/Logo_Mines_ParisTech.svg/1280px-Logo_Mines_ParisTech.svg.png" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="34" /> <img src="https://www.imerir.com/content/uploads/2021/03/imerir-pwa-icon-512.png" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="100" /> <img src="https://upload.wikimedia.org/wikipedia/fr/8/81/Sciences_SU.png" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="40" /> <img src="https://www.ipi-ecoles.com/wp-content/themes/ipi/img/common/ipi-ecole-informatique-01.png" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="66" /> <img src="https://d1c2gz5q23tkk0.cloudfront.net/assets/networks/440/public_website_header_logo/-original.jpg" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="100" /> <img src="IMG/jpg/151989180134c858.jpg?1650365304" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="100" /> <img src="IMG/jpg/rootmjoble.jpg?1645616634" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="28" /> <img src="IMG/png/gh21_header-2.png?1645718924" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="26" /> <img src="IMG/png/index-2.png?1645718933" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="32" /> <img src="IMG/png/61efca2cf1e0c59a31fe5061_logo_sb-noir_-_copie.png?1646983847" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="46" /> <img src="IMG/png/logo2600-footer.png?1653635370" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="72" /> <img src="IMG/png/oc_purple_.png?1661528641" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="8" /> <img src="IMG/png/logort_valide.png?1661528641" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="27" /> <img src="IMG/jpg/logo-promeo.jpg?1672319654" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="52" /> <img src="IMG/jpg/logo_esna_rvb.jpg?1672320192" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="100" /> <img src="IMG/jpg/cesi_logo_alternance_rvb.jpg?1672320197" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="52" /> <img src="IMG/png/logo-ul_2x.png?1672320816" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="33" /> <img src="IMG/png/logo_dorian.png?1672320953" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="90" /> <img src="IMG/png/image.png?1673001002" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="20" /> <img src="IMG/png/proximus.png?1675446413" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="21" /> <img src="IMG/png/logo-almond-2023-vert.png?1680788954" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="26" /> <img src="IMG/jpg/logo_cmq_metiers_securite.jpg?1680789632" alt="" class="vmiddle grayscale grayscale_hoveroff" width="100" height="61" />
+<img src='squelettes/img/logo/ENSTA-Bretagne.jpg?1601275360' alt='ENSTA Bretagne' class='vmiddle grayscale grayscale_hoveroff' width='100' height='39' />
+<img src='squelettes/img/logo/supelec.png?1499326651' alt='Sup&#233;lec' class='vmiddle grayscale grayscale_hoveroff' width='100' height='100' />
+<img src='squelettes/img/logo/epitech.png?1454502656' alt='Epitech' class='vmiddle grayscale grayscale_hoveroff' width='100' height='37' />
+<img src='squelettes/img/logo/insa_lyon.png?1454503352' alt='INSA Lyon' class='vmiddle grayscale grayscale_hoveroff' width='100' height='23' />
+<img src='squelettes/img/logo/polytech_marseille.png?1499326195' alt='PolyTech Marseille' class='vmiddle grayscale grayscale_hoveroff' width='100' height='30' />
+<img src='squelettes/img/logo/telecom_nancy.png?1454503631' alt='Telecom Nancy' class='vmiddle grayscale grayscale_hoveroff' width='100' height='49' />
+<img src='squelettes/img/logo/42.png?1455205002' alt='42' class='vmiddle grayscale grayscale_hoveroff' width='100' height='80' />
+<img src='squelettes/img/logo/universite_lorraine.png?1454503549' alt='Universit&#233; de Lorraine' class='vmiddle grayscale grayscale_hoveroff' width='100' height='44' />
+<img src='squelettes/img/logo/esaip.png?1454502907' alt='ESAIP' class='vmiddle grayscale grayscale_hoveroff' width='100' height='67' />
+<img src='squelettes/img/logo/ingesup.png?1454503667' alt='Ingesup' class='vmiddle grayscale grayscale_hoveroff' width='100' height='29' />
+<img src='squelettes/img/logo/ESIEA.png?1454502864' alt='ESIEA' class='vmiddle grayscale grayscale_hoveroff' width='100' height='52' />
+<img src='squelettes/img/logo/eisti.png?1454503597' alt='EISTI' class='vmiddle grayscale grayscale_hoveroff' width='100' height='77' />
+<img src='squelettes/img/logo/epita.png?1454502704' alt='Epita' class='vmiddle grayscale grayscale_hoveroff' width='100' height='51' />
+<img src='squelettes/img/logo/haute_ecole_fribourg.png?1454502670' alt='Haute &#201;cole de Fribourg' class='vmiddle grayscale grayscale_hoveroff' width='100' height='38' />
+<img src='squelettes/img/logo/supinfo.png?1454502919' alt='Supinfo' class='vmiddle grayscale grayscale_hoveroff' width='100' height='27' />
+<img src='squelettes/img/logo/universite_reims.png?1455095406' alt='Universit&#233; de Reims' class='vmiddle grayscale grayscale_hoveroff' width='100' height='61' />
+<img src='squelettes/img/logo/TLS-SEC.png?1473067649' alt='Toulouse-S&#233;curit&#233;' class='vmiddle grayscale grayscale_hoveroff' width='100' height='24' />
+</div>        
+</div>
+<div class="row txs text-right">
+Vous utilisez Root-Me ?&nbsp;<a href="./?page=contact&amp;lang=fr" title="Contact">Laissez nous savoir ;-)</a>
+</div>                
+</div>
+</div>
+</div>
+</div>    
+</div>    
+</main>
+<footer id="footer" role="contentinfo" itemscope itemtype="https://schema.org/WPFooter">
+<div class="text-center">
+<div class="columns small-12">
+<img src="IMG/logo/siteon0.svg?1637496509" class="vmiddle grayscale" alt="Root-Me" width="48" height="48"/>
+</div>
+<div class="columns small-12">
+<a class="gris2" title="ConfidentialitÃ©" href="https://www.root-me.org?page=structure&amp;inc=page-confidentialite&amp;lang=fr">ConfidentialitÃ©</a>
+&nbsp;|&nbsp;
+<a class="gris2" title="Mentions LÃ©gales" href="https://www.root-me.org?page=structure&amp;inc=page-mentions_legales&amp;lang=fr">Mentions LÃ©gales</a>
+&nbsp;|&nbsp;
+<a class="gris2" title="Conditions GÃ©nÃ©rales d'Utilisation" href="https://www.root-me.org?page=structure&amp;inc=page-CGU&amp;lang=fr">Conditions GÃ©nÃ©rales d'Utilisation</a><br/>
+Root Me&nbsp;: plateforme d&#8217;apprentissage dÃ©diÃ©e au Hacking et Ã  la SÃ©curitÃ© de l&#8217;Information<br/>
+Â©&nbsp;2010&nbsp;-&nbsp;2023<br/>
+<hr/>
+</div>
+</div>
+<div class="text-center">
+<div class="small-10 large-3 small-centered columns">
+<div class="small-2 columns"><a href="https://www.twitch.tv/rootme" title="Twitch"><img src='squelettes/img/twitch.svg?1683788777' alt='Twitch' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+<div class="small-2 columns"><a href="https://www.youtube.com/channel/UCnvB1SJdVYv-1zkByuYM73g" title="Youtube"><img src='squelettes/img/youtube.svg?1683788771' alt='Youtube' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+<div class="small-2 columns"><a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.root-me.org%2F&region=follow_link&screen_name=rootme_org&tw_p=followbutton" title="Twitter"><img src='squelettes/img/twitter.svg?1573023931' alt='Twitter' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+<div class="small-2 columns"><a href="https://fr.linkedin.com/company/root-me-pro" title="Linkedin"><img src='squelettes/img/linkedin.svg?1573023925' alt='Linkedin' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+<div class="small-2 columns"><a href="https://www.root-me.org?page=flux_rss&amp;lang=fr" title="Flux Dynamique"><img src='squelettes/img/rss.svg?1573023935' alt='Flux Dynamique' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+<div class="small-2 columns"><a href="https://discord.gg/XejsBJdUch" title="Discord"><img src='squelettes/img/discord.svg?1640079279' alt='Discord' class='vmiddle grayscale grayscale_hoveroff' width='24' height='24' /></a></div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+</body>
+</html>
+
+D‚termination de l'itin‚raire vers www.root-me.org [212.129.28.16]
+avec un maximum de 30 sautsÿ:
+  0  N15I516BK512.Cisco [192.168.1.199] 
+  1  192.168.1.1 
+  2  172.31.1.254 
+  3  100.100.1.160 
+  4  46.18.224.51 
+  5     *        *        *     
+Traitement des statistiques pendant 100 secondes...
+            Source vers ici  Ce noud/lien
+Saut RTT    Perdu/Envoy‚ = % Perdu/Envoy‚ = % Adresse
+  0                                           N15I516BK512.Cisco [192.168.1.199] 
+                                0/ 100 =  0%   |
+  1   57ms     0/ 100 =  0%     0/ 100 =  0%  192.168.1.1 
+                                0/ 100 =  0%   |
+  2   57ms     0/ 100 =  0%     0/ 100 =  0%  172.31.1.254 
+                                0/ 100 =  0%   |
+  3   56ms     0/ 100 =  0%     0/ 100 =  0%  100.100.1.160 
+                                0/ 100 =  0%   |
+  4   59ms     0/ 100 =  0%     0/ 100 =  0%  46.18.224.51 
+
+Itin‚raire d‚termin‚.
+Afficher le fichier host 172.31.1.76 anissa 
+
+Configuration IP de Windows
+
+    72.71.95.77.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 72.71.95.77.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 2735
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : rhoval.peers.lyonix.net
+
+
+    171.27.125.64.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 171.27.125.64.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 1868
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : ae4.er1.cdg15.fr.zip.zayo.com
+
+
+    77.71.95.77.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 77.71.95.77.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 2449
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : zayo-6461.rezopole.net
+
+
+    38.73.161.213.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 38.73.161.213.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 2641
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : 213.161.73.38.IPYX-298409-900-ZYO.zip.zayo.com
+
+
+    92.197.31.85.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 92.197.31.85.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 75236
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : hu0-0-2-1.er02.lyo03.jaguar-network.net
+
+
+    www.subnetonline.com
+    ----------------------------------------
+    Nom d'enregistrement. : www.subnetonline.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 75762
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 79.143.176.75
+
+
+    www.afrinic.net
+    ----------------------------------------
+    Nom d'enregistrement. : www.afrinic.net
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 1017
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 196.216.2.6
+
+
+    www.afrinic.net
+    ----------------------------------------
+    Nom d'enregistrement. : www.afrinic.net
+    Type d'enregistrement : 28
+    Dur‚e de vie  . . . . : 2258
+    Longueur de donn‚es . : 16
+    Section . . . . . . . : R‚ponse
+    Enregistrement AAAA . : 2001:42d0:0:200::6
+
+
+    14.27.125.64.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 14.27.125.64.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 3700
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : ae3.cs1.cdg11.fr.zip.zayo.com
+
+
+    216.1.188.10.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 216.1.188.10.in-addr.arpa.
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 593074
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : host.docker.internal
+
+
+    Nom d'enregistrement. : 216.1.188.10.in-addr.arpa.
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 593074
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : gateway.docker.internal
+
+
+    202.13.6.109.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 202.13.6.109.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 36149
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : 202.13.6.109.rev.sfr.net
+
+
+    kubernetes.docker.internal
+    ----------------------------------------
+    Nom d'enregistrement. : kubernetes.docker.internal
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 593074
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 127.0.0.1
+
+
+    kubernetes.docker.internal
+    ----------------------------------------
+    Aucun enregistrement de type AAAA
+
+
+    13.71.95.77.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 13.71.95.77.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 3008
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : sfr.peers.lyonix.net
+
+
+    93.197.31.85.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 93.197.31.85.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 75234
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : cpe-et012708.cust.jaguar-network.net
+
+
+    154.236.49.37.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 154.236.49.37.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 2940
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : gandi.par.franceix.net
+
+
+    55.184.70.217.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 55.184.70.217.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 75198
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : webredir.gandi.net
+
+
+    3.102.246.173.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 3.102.246.173.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 79275
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : et18-1.core-2.csd4.gandi.net
+
+
+    103.231.153.78.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 103.231.153.78.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 79413
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : be2.er02.par01.jaguar-network.net
+
+
+    5.102.246.173.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 5.102.246.173.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 79277
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : et53-1.core-1.sd4.gandi.net
+
+
+    peugeot.fr
+    ----------------------------------------
+    Nom d'enregistrement. : peugeot.fr
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 75458
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 217.70.184.55
+
+
+    60.146.6.194.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 60.146.6.194.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 36146
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : 60.146.6.194.rev.sfr.net
+
+
+    host.docker.internal
+    ----------------------------------------
+    Nom d'enregistrement. : host.docker.internal
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 593074
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 10.188.1.216
+
+
+    host.docker.internal
+    ----------------------------------------
+    Aucun enregistrement de type AAAA
+
+
+    sfr.fr
+    ----------------------------------------
+    Nom d'enregistrement. : sfr.fr
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 17283
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 80.125.163.172
+
+
+    182.0.163.72.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 182.0.163.72.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 1325
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : rcdn9-cd2-dmzdcc-gw2-por1.cisco.com
+
+
+    109.201.19.213.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 109.201.19.213.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 3106
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : lag-21-470.ear2.Paris1.Level3.net
+
+
+    1.0.0.127.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 1.0.0.127.in-addr.arpa.
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 593074
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : kubernetes.docker.internal
+
+
+    63.21.218.23.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 63.21.218.23.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 29920
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : a23-218-21-63.deploy.static.akamaitechnologies.com
+
+
+    gateway.docker.internal
+    ----------------------------------------
+    Nom d'enregistrement. : gateway.docker.internal
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 593074
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 10.188.1.216
+
+
+    gateway.docker.internal
+    ----------------------------------------
+    Aucun enregistrement de type AAAA
+
+
+    51.224.18.46.in-addr.arpa
+    ----------------------------------------
+    Le nom n'existe pas.
+
+
+    154.4.163.72.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 154.4.163.72.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 1353
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : redirect.cisco.com
+
+
+    66.34.59.4.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 66.34.59.4.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 79422
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : CISCO-SYSTE.edge5.Dallas3.Level3.net
+
+
+    geolocation.onetrust.com
+    ----------------------------------------
+    Nom d'enregistrement. : geolocation.onetrust.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 18
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 172.64.155.119
+
+
+    Nom d'enregistrement. : geolocation.onetrust.com
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 18
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 104.18.32.137
+
+
+    www.root-me.org
+    ----------------------------------------
+    Nom d'enregistrement. : www.root-me.org
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 74965
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 212.129.28.16
+
+
+    129.4.163.72.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 129.4.163.72.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 1352
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : hsrp-72-163-4-129.cisco.com
+
+
+    ping.eu
+    ----------------------------------------
+    Nom d'enregistrement. : ping.eu
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 2562
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 88.198.46.60
+
+
+    cisco.fr
+    ----------------------------------------
+    Nom d'enregistrement. : cisco.fr
+    Type d'enregistrement : 1
+    Dur‚e de vie  . . . . : 75487
+    Longueur de donn‚es . : 4
+    Section . . . . . . . : R‚ponse
+    Enregistrement (h“te) : 72.163.4.154
+
+
+    229.208.69.4.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 229.208.69.4.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 79420
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : ae3.5.edge5.Dallas3.level3.net
+
+
+    206.2.163.72.in-addr.arpa
+    ----------------------------------------
+    Nom d'enregistrement. : 206.2.163.72.in-addr.arpa
+    Type d'enregistrement : 12
+    Dur‚e de vie  . . . . : 1326
+    Longueur de donn‚es . : 8
+    Section . . . . . . . : R‚ponse
+    Enregistrement PTR. . : rcdn9-br07-fab1-sw3812-dmzdcc1uplink.cisco.com
+
+
+
+Configuration IP de Windows
+
+Cache de r‚solution DNS vid‚.
+ARP 
+
+Interfaceÿ: 192.168.1.199 --- 0x2
+  Adresse Internet      Adresse physique      Type
+  192.168.1.1           d8-67-d9-d1-b4-2a     dynamique 
+  192.168.1.100         00-aa-11-bb-22-cc     statique  
+  192.168.1.101         11-bb-22-cc-dd-ee     statique  
+  192.168.1.102         22-cc-dd-ee-ff-00     statique  
+  192.168.1.103         33-dd-ee-ff-00-11     statique  
+  192.168.1.104         44-ee-ff-00-11-22     statique  
+  192.168.1.255         ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  239.255.102.18        01-00-5e-7f-66-12     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     statique  
+
+Interfaceÿ: 192.168.56.1 --- 0xd
+  Adresse Internet      Adresse physique      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+  224.0.0.251           01-00-5e-00-00-fb     statique  
+  224.0.0.252           01-00-5e-00-00-fc     statique  
+  226.178.217.5         01-00-5e-32-d9-05     statique  
+  239.255.255.250       01-00-5e-7f-ff-fa     statique  
+
+Interfaceÿ: 192.168.1.199 --- 0x2
+  Adresse Internet      Adresse physique      Type
+  192.168.1.1           d8-67-d9-d1-b4-2a     dynamique 
+  192.168.1.100         00-aa-11-bb-22-cc     statique  
+  192.168.1.101         11-bb-22-cc-dd-ee     statique  
+  192.168.1.102         22-cc-dd-ee-ff-00     statique  
+  192.168.1.103         33-dd-ee-ff-00-11     statique  
+  192.168.1.104         44-ee-ff-00-11-22     statique  
+  224.0.0.22            01-00-5e-00-00-16     statique  
+
+Interfaceÿ: 192.168.56.1 --- 0xd
+  Adresse Internet      Adresse physique      Type
+  224.0.0.22            01-00-5e-00-00-16     statique  
+Route 
+===========================================================================
+Liste d'Interfaces
+  8...84 47 09 0b d1 82 ......Realtek PCIe GbE Family Controller
+ 13...0a 00 27 00 00 0d ......VirtualBox Host-Only Ethernet Adapter
+ 16...04 56 e5 79 f0 28 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 10...06 56 e5 79 f0 27 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+  2...04 56 e5 79 f0 27 ......Intel(R) Dual Band Wireless-AC 7265
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Table de routage
+===========================================================================
+Itin‚raires actifsÿ:
+Destination r‚seau    Masque r‚seau  Adr. passerelle   Adr. interface M‚trique
+          0.0.0.0          0.0.0.0      192.168.1.1    192.168.1.199     55
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+      192.168.1.0    255.255.255.0         On-link     192.168.1.199    311
+    192.168.1.199  255.255.255.255         On-link     192.168.1.199    311
+    192.168.1.255  255.255.255.255         On-link     192.168.1.199    311
+     192.168.56.0    255.255.255.0         On-link      192.168.56.1    281
+     192.168.56.1  255.255.255.255         On-link      192.168.56.1    281
+   192.168.56.255  255.255.255.255         On-link      192.168.56.1    281
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link      192.168.56.1    281
+        224.0.0.0        240.0.0.0         On-link     192.168.1.199    311
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link      192.168.56.1    281
+  255.255.255.255  255.255.255.255         On-link     192.168.1.199    311
+===========================================================================
+Itin‚raires persistantsÿ:
+  Aucun
+===========================================================================
+Liste d'Interfaces
+  8...84 47 09 0b d1 82 ......Realtek PCIe GbE Family Controller
+ 13...0a 00 27 00 00 0d ......VirtualBox Host-Only Ethernet Adapter
+ 16...04 56 e5 79 f0 28 ......Microsoft Wi-Fi Direct Virtual Adapter
+ 10...06 56 e5 79 f0 27 ......Microsoft Wi-Fi Direct Virtual Adapter #2
+  2...04 56 e5 79 f0 27 ......Intel(R) Dual Band Wireless-AC 7265
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv6 Table de routage
+===========================================================================
+Itin‚raires actifsÿ:
+ If Metric Network Destination      Gateway
+  1    331 ::1/128                  On-link
+ 13    281 fe80::/64                On-link
+  2    311 fe80::/64                On-link
+ 13    281 fe80::d0fc:239c:13bc:bdab/128
+                                    On-link
+  2    311 fe80::f1d9:c235:6865:1185/128
+                                    On-link
+  1    331 ff00::/8                 On-link
+ 13    281 ff00::/8                 On-link
+  2    311 ff00::/8                 On-link
+===========================================================================
+Itin‚raires persistantsÿ:
+  Aucun
+Netsh 
